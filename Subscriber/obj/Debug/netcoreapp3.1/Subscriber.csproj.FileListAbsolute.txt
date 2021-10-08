@@ -1,0 +1,17 @@
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.exe
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.deps.json
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.json
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.runtimeconfig.dev.json
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.dll
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\bin\Debug\netcoreapp3.1\Subscriber.pdb
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\bin\Debug\netcoreapp3.1\Common.dll
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\bin\Debug\netcoreapp3.1\Common.pdb
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csprojAssemblyReference.cache
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfoInputs.cache
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.AssemblyInfo.cs
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CoreCompileInputs.cache
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.csproj.CopyComplete
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.dll
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.pdb
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Subscriber\obj\Debug\netcoreapp3.1\Subscriber.genruntimeconfig.cache

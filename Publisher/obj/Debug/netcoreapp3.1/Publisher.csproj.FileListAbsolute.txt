@@ -1,0 +1,21 @@
+C:\Users\Максон\source\repos\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Максон\source\repos\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+C:\Users\Максон\source\repos\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\Максон\source\repos\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Common.dll
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\bin\Debug\netcoreapp3.1\Common.pdb
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CoreCompileInputs.cache
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+D:\University\Semestru 7\PAD\Laborator\Lab1PAD\Publisher\obj\Debug\netcoreapp3.1\Publisher.genruntimeconfig.cache
